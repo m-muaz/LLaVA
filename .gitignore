@@ -37,3 +37,6 @@ serve_images/
 # Visualization and Analysis
 *.npy
 *.pkl
+
+# output_viz
+output_viz
